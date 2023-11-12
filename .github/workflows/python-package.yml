@@ -7,7 +7,7 @@ on:
       - Develop
       - test
       - feature/AddCocinero
-      - feature/Encontrar
+      - feature/Encuentra
 
 jobs:
   test:
