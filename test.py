@@ -18,7 +18,7 @@ def test_divisible_tempo():
 def test_obtiene_mas_bailable():
     mi_clase = Examen2.MiClase(None, None, None, None, None)
     resultado = mi_clase.ObtieneMasBailable([0.2, 0.1, 0.5, 0.3])
-    assert resultado == 0.5
+    assert resultado == 0.6
 
 
 # Prueba para el método VerificaListaCanciones
