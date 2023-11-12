@@ -1,4 +1,3 @@
-import pytest
 import Examen2
 
 # Prueba para el método ObtieneValencia
