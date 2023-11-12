@@ -1,5 +1,6 @@
 import Examen2
 
+
 # Prueba para el método ObtieneValencia
 def test_obtiene_valencia():
     mi_clase = Examen2.MiClase(None, None, None, None, None)
